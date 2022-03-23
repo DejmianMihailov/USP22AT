@@ -1,0 +1,3 @@
+Каква е разликата между командите git pull и git push?
+
+Push изпраща всички последни commit-и от local repository-то към Git hub, а pull взима промените от GitHub repository-то и ги обидинява с тези на local repository. 
